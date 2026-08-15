@@ -52,4 +52,6 @@ What best practices did you follow for writing clean, readable code?
 How would you improve your website if you had more time?
 [I would add css for better design and JavaScript for more interactive features]
 
-Student Name: [Joseph Daka] Student ID: [2508260212] GitHub Repository: [Your Repository URL]
+Student Name: [Joseph Daka] 
+Student ID: [2508260212] 
+GitHub Repository[(https://github.com/Joseph22daka/j.daka)]
